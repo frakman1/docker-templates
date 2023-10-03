@@ -20,7 +20,7 @@
   </Overview>
   <Registry>https://registry.hub.docker.com/r/portainerci/portainer/</Registry>
   <GitHub>https://github.com/portainer/portainer</GitHub>
-  <Repository>portainerci/portainer:2.1</Repository>
+  <Repository>portainerci/portainer:2.19.1</Repository>
   <Support>https://lime-technology.com/forums/topic/69491-support-jj9987-portainer/</Support>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
